@@ -4,8 +4,8 @@
 title: Project List &middot; Siddharth Kannan
 desc: A list of projects that I have worked on
 
-url: http://jackal.com      # put your website hosting url here
-baseurl: ''                 # the subpath of your site, e.g. /blog
+url: http://siddharthkannan.in      # put your website hosting url here
+baseurl: '/projects'                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
