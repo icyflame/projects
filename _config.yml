@@ -16,7 +16,7 @@ github_username: icyflame
 github_source: projects
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-40518182-13'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
