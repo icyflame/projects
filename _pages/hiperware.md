@@ -143,4 +143,4 @@ backend.
 
 **Duration:** May 2016 - August 2016  
 **Project:** Port Learn and Earn, the iOS app to Android, targeted at tablets, API 15+  
-**Working hours (flexible):** 10 am - 6 pm
+**Working hours (flexible):** 10 am - 6 pm, 5 days a week
