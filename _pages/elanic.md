@@ -9,8 +9,8 @@ subtitle: Internship at Elanic Bangalore - Summer 2017
 
 [Elanic](http://elanic.in/) is a start-up based in Bangalore, founded in 2015.
 Elanic's Android and iOS application provide a platform for buying and selling
-pre-owned items. The focus of this platform is to make the process to make money
-from a pre-owned item dead simple, hence bringing more and more people into this
+pre-owned items. The focus of this platform is to make the process of earning
+money from pre-owned items dead simple, hence bringing more people into this
 market, both as sellers and buyers.
 
 ### Timeline
@@ -58,5 +58,5 @@ market, both as sellers and buyers.
 
 ### Statistics
 
-**Duration:** May 2017 - June 2017
+**Duration:** May 2017 - June 2017  
 **Working hours (flexible):** 10 am - 7 pm, 6 days a week
