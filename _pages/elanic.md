@@ -7,6 +7,8 @@ subtitle: Internship at Elanic Bangalore - Summer 2017
 
 ### Background
 
+![img](/assets/img/elanic-logo.png)
+
 [Elanic](http://elanic.in/) is a start-up based in Bangalore, founded in 2015.
 Elanic's Android and iOS application provide a platform for buying and selling
 pre-owned items. The focus of this platform is to make the process of earning
